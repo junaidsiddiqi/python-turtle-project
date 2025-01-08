@@ -10,6 +10,7 @@ This project combines Python’s Turtle graphics to create dynamic designs and a
 
 -Both projects highlight creative uses of Turtle graphics, blending vibrant patterns with an interactive game simulation to create a unique and engaging coding experience.
 
-![Code Output](https://github.com/user-attachments/assets/8721e30e-f642-44b3-b694-8335ff32984d)
+![Code Output](https://github.com/user-attachments/assets/8d3793f6-7ecf-405d-a5b1-ac621c081cae)
+
 
 ![Code Output2](https://github.com/user-attachments/assets/9a5af8e6-32fa-431c-a3bc-c907517c73a4)
