@@ -1,6 +1,6 @@
 Python Turtle Project
 
-Description
+*Description*
 
 This project combines Python’s Turtle graphics to create dynamic designs and an interactive Among Us voting simulation.
 
